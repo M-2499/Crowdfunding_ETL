@@ -29,7 +29,7 @@ The United States (US) had the highest sum of pledged amounts, with a total of $
 **Conclusion**
 Overall, the data suggests that "theater", "film & video", and "music" are the most successful categories in terms of crowdfunding projects, while "journalism" and "games" have relatively low success rates. Similarly, "plays", "photography books", "web", "food trucks", and "wearables" subcategories have relatively high success rates, while "audio", "science fiction", and "world music" have lower success rates. The United States, Canada, and the United Kingdom have the highest total sum of pledged amounts, indicating higher crowdfunding support in these countries compared to others.
 
-# Project Outline
+# Project Outline #
 Instructions
 The instructions for this mini project are divided into the following subsections:
 
